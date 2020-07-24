@@ -32,7 +32,7 @@ var precacheUrls = [];
 
   precacheUrls.push('/2020/07/21/closure/');
 
-  precacheUrls.push('/2020/05/28/Markdown/');
+  precacheUrls.push('/2020/06/16/Typescript高级类型、范型/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
