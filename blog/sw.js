@@ -26,13 +26,13 @@ var precacheUrls = [];
 
   precacheUrls.push('/2020/05/15/ArrayBuffer/');
 
-  precacheUrls.push('/2020/06/10/CSS预处理器/');
-
   precacheUrls.push('/2020/05/28/Http--超文本传输协议/');
 
-  precacheUrls.push('/2020/05/28/Markdown/');
+  precacheUrls.push('/2020/06/10/CSS预处理器/');
 
-  precacheUrls.push('/2020/06/16/Typescript高级类型、范型/');
+  precacheUrls.push('/2020/07/21/closure/');
+
+  precacheUrls.push('/2020/05/28/Markdown/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
